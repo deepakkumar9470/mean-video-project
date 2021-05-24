@@ -1,0 +1,11 @@
+[+] Create Angular App bu angular cli 
+
+[+] Create Express Server
+
+[-] Connect Angular with Mongodb 
+
+[-] Rest Api's
+
+[-] Testing with postman
+
+[-] Angular concepts
